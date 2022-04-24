@@ -35,6 +35,10 @@ The app is hosted on Glitch and can be accessed here(*add*). All you need to do 
 
 ![new](https://user-images.githubusercontent.com/47464258/164947189-8655c683-3252-4c80-8a00-dcfc42ad2a61.png)
 
+## Youtube Video
+
+[![objects]<img width="620" alt="ddsds" src="https://user-images.githubusercontent.com/47464258/164996671-d4fbe59b-9784-413c-8c0f-b423b31d7fd3.png">](https://youtu.be/2MHC38D5vxI)
+
 ## Credits
 This project was inspired by
 - https://codelabs.developers.google.com/tensorflowjs-transfer-learning-teachable-machine#8
