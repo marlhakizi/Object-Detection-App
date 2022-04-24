@@ -37,7 +37,7 @@ The app is hosted on Glitch and can be accessed here(*add*). All you need to do 
 
 ## Youtube Video
 
-[Link : <img width="620" alt="ddsds" src="https://user-images.githubusercontent.com/47464258/164996671-d4fbe59b-9784-413c-8c0f-b423b31d7fd3.png">](https://youtu.be/2MHC38D5vxI)
+[Link : <img width="300" alt="ddsds" src="https://user-images.githubusercontent.com/47464258/164996671-d4fbe59b-9784-413c-8c0f-b423b31d7fd3.png">](https://youtu.be/2MHC38D5vxI)
 
 ## Credits
 This project was inspired by
